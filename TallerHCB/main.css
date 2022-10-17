@@ -1,0 +1,51 @@
+
+.container-fluid {
+    background-color: rgb(238, 238, 210);
+}
+
+.container text-center {
+    background-color: rgb(238, 238, 210);
+}
+
+.container{
+    text-align: left;
+}
+
+html {
+    background-color: rgb(238, 238, 210);
+}
+
+.left-text{
+    text-align: left;
+}
+
+.justify-text{
+    text-align: justify;
+}
+
+.list-group{
+    background-color: rgb(231, 231, 202);
+}
+
+div {
+
+    margin: 10px;
+}
+
+.rounded{
+    width: 300px;
+}
+
+.display-1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.accordion-body{
+    text-align: left;
+}
+
+.photoh{
+    width: 35px;
+    float: left;
+    margin: 5px;
+}
